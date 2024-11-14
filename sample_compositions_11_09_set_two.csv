@@ -1,0 +1,17 @@
+wells,gox,glucose,Molarity,Group Molarity,Buffer,pH,Group Reagent Type
+A3,60,20,80,30,sa,5.45,copperchloride
+B3,60,20,80,30,sa,5.45,nacl
+C3,60,20,80,30,sa,5.45,nacl
+D3,60,20,80,30,sa,3.8,
+E3,60,20,80,30,sa,4.55,
+F3,60,20,80,30,sa,4.55,
+G3,60,20,80,30,sa,3.8,
+H3,60,20,80,30,sa,3.8,zincchloride
+A4,60,20,80,30,sa,5.45,nacl
+B4,60,20,80,30,sa,3.8,
+C4,60,20,80,30,sa,5.45,zincchloride
+D4,60,20,80,30,sa,4.55,copperchloride
+E4,60,20,80,30,sa,3.8,
+F4,60,20,80,30,sa,3.8,coppersulphate
+G4,60,20,80,30,sa,4.55,
+H4,60,20,80,30,sa,5.45,
